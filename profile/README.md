@@ -4,6 +4,10 @@
 
 ---
 
+<p align="center">
+  <img src="../assets/SoulsGIF.gif" alt="Demo GIF" />
+</p>
+
 ## 🚀 What is TaleSoul?
 
 TaleSoul is built for individuals looking for **authentic guidance** from verified consultants.  
